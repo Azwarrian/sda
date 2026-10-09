@@ -1,2 +1,2 @@
-# SDA-Studi-Kasus
+# SDA
 Penerapan Redo/Undo pada sebuah Teks yang dijadikan sebuah Aplikasi, untuk menerapkan sekaligus menjelaskan konsep Stack
